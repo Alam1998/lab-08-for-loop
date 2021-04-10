@@ -2,8 +2,8 @@ myData = {"effective top tube length": 515, "seat tube length": 500, "seat tube 
 a = []
 b = []
 for c, d in myData.items():
-  print("key:", c, ', value:', d)
+  print("key:", c, "value:", d)
   a.append(c)
   b.append(d)
 print("all keys: ", a)
-print("all values", b)
+print("all values ", b)
