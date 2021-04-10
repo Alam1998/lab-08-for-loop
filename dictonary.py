@@ -6,4 +6,4 @@ for c, d in myData.items():
   a.append(c)
   b.append(d)
 print("all keys: ", a)
-print("all values ", b)
+print("all values ", b) 
